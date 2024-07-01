@@ -1,6 +1,6 @@
 <br />
 <p align="center">
-  <a href="https://github.com/Technotix/Robocon-2024">
+  <a href="https://github.com/Technotix/Robocon-2024-Datasets">
     <img src="https://avatars.githubusercontent.com/u/141440075?s=80" alt="Logo" width="80" height="80">
   </a>
 
